@@ -6,7 +6,7 @@ Team Members :    Ajinkya Shinde (2019IMT-008),
                   Sarthak Jain (2019IMT-087)
                   
 Description of the project : 
- Watch Party is a synchronized online video player. Here nwe users can register by creating an account. Existing users can login using their credentials. 
+ Watch Party is a synchronized online video player. Here new users can register by creating an account. Existing users can login using their credentials. 
  After authentication user will land on a join room page. Here he/she has to enter room id and password. If a room with that id already exists then the password will be checked. If the
  entered password is correct then he/she will get connected in the room else error will be shown. Else if the room with that id doesn't exists then a new room with the given id and password will be created.
  Users having the room credentials can join in that room. They can chat with each other, watch any video using it's URL. The video will be in sync with all the users.
